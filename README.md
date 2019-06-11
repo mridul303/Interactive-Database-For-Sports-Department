@@ -6,4 +6,4 @@ ER Diagram:
 
 
 Schema:
-![alt text](https://github.com/annan007/Interactive-Database-For-Sports-Department/blob/master/erdplus-diagram.png)
+![alt text](https://github.com/annan007/Interactive-Database-For-Sports-Department/blob/master/erdplus-schema.png)
